@@ -39,7 +39,7 @@ A production-grade, object-oriented Digital Wallet System built in Java, demonst
 
 ## 🖼️ Class Diagram
 
-*(Space reserved for Class Diagram — to be updated)*
+<img width="3578" height="1943" alt="Image" src="https://github.com/user-attachments/assets/e83fd08b-65b8-4ea1-8d37-78876a9485ef" />
 
 ---
 
